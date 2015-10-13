@@ -1,2 +1,0 @@
-# jekyll-intro
-jekyll
